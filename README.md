@@ -1,2 +1,2 @@
 # Python_Class
-David's Python Class Examples
+David's Python Class Exercises
