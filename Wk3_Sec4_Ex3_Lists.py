@@ -1,5 +1,3 @@
-# Lists
-
 # Python list is created by setting a variable equal
 # to a square bracket set
 
@@ -16,11 +14,3 @@ text("hello")
 #Output
 # ["John", "Geoff", "Brady", "Thomas"]
 # "hello"
-
-# By Access elements of a list by adding square brackets
-# with desired element
-print(job_applicants[1])
-print(job_applicants[2])
-
-#to print John - ask for 1 less than what you want
-print(job_applicants[0])
